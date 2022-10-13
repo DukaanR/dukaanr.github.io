@@ -1,0 +1,26 @@
+{
+  "archive": {
+    "number": 1,
+    "chapter": [
+      {
+        "number": 1,
+        "challenge": [
+          {
+            "id": 1,
+            "name": "Test Name",
+            "description": "Test Description",
+            "type": "General",
+            "tags": [
+              {
+                "tag": "General"
+              },
+              {
+                "tag": "Emblem"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
