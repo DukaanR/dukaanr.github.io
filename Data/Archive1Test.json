@@ -7,30 +7,118 @@
         "challenge": [
           {
             "id": 1,
-            "name": "Test Name",
-            "description": "Test Description",
-            "type": "General",
+            "name": "Bring the Light",
+            "description": "Repair a total of 2 Generators",
+            "type": "Survivor",
             "tags": [
-              {
-                "tag": "General"
-              },
-              {
-                "tag": "Emblem"
-              }
+              "Gen Repair"
             ]
           },
 		  {
             "id": 2,
-            "name": "Test Name 2",
-            "description": "Test Description 2",
+            "name": "Savior",
+            "description": "Unhook 2 survivors safely",
+            "type": "Survivor",
+            "tags": [
+              "Unhook"
+            ]
+          },
+		  {
+            "id": 3,
+            "name": "Patched Up",
+            "description": "Heal 4 Health States of any Survivor",
+            "type": "Survivor",
+            "tags": [
+              "Heal",
+			  "Heal Self",
+			  "Heal Others"
+            ]
+          },
+		  {
+            "id": 4,
+            "name": "Liberator",
+            "description": "Unhook 5 Survivors safely",
+            "type": "Survivor",
+            "tags": [
+              "Unhook"
+            ]
+          },
+		  {
+            "id": 5,
+            "name": "Skilled Operator",
+            "description": "Succeed at 12 Skill Checks",
+            "type": "Survivor",
+            "tags": [
+              "Skill Checks",
+			  "Gen Repair",
+			  "Heal",
+			  "Heal Self",
+			  "Heal Others"
+            ]
+          },
+		  {
+            "id": 21,
+            "name": "Gruesome",
+            "description": "Hook 8 Survivors",
+            "type": "Killer",
+            "tags": [
+              "Hook"
+            ]
+          },
+		  {
+            "id": 22,
+            "name": "Scrapyard",
+            "description": "Damage 6 Generators",
+            "type": "Killer",
+            "tags": [
+              "Damage Gens"
+            ]
+          },
+		  {
+            "id": 23,
+            "name": "Mechanical Obsession",
+            "description": "Damage the same Generator 2 times",
+            "type": "Killer",
+            "tags": [
+              "Damage Gens"
+            ]
+          },
+		  {
+            "id": 24,
+            "name": "Brutal Breaker",
+            "description": "Damage a Generator or destroy a dropped Pallet 4 times using the Perk Brutal Strength",
+            "type": "Killer",
+            "tags": [
+              "Damage Gen",
+			  "Destroy Pallet",
+			  "Brutal Strength"
+            ]
+          },
+		  {
+            "id": 25,
+            "name": "Hungry Jaws",
+            "description": "Catch a Survivor in a Bear Trap 2 times as The Trapper",
+            "type": "Killer",
+            "tags": [
+              "Trapper"
+            ]
+          },
+		  {
+            "id": 41,
+            "name": "Bloody Rewards",
+            "description": "Earn 50,000 Bloodpoints",
             "type": "General",
             "tags": [
-              {
-                "tag": "General"
-              },
-              {
-                "tag": "Emblem"
-              }
+              "Earn Bloodpoints"
+            ]
+          },
+		  {
+            "id": 42,
+            "name": "Amateur Ornithologist",
+            "description": "Disturb 25 Crows",
+            "type": "General",
+            "tags": [
+              "Disturb Crows"
             ]
           }
         ]
