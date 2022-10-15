@@ -11,8 +11,8 @@
             "description": "Repair a total of 2 Generators",
             "type": "Survivor",
             "tags": [
-              "Gen Repair"
-            ]
+			  "Repair Gens"
+			]
           },
 		  {
             "id": 2,
@@ -50,12 +50,73 @@
             "type": "Survivor",
             "tags": [
               "Skill Checks",
-			  "Gen Repair",
+			  "Repair Gens",
 			  "Heal",
 			  "Heal Self",
 			  "Heal Others"
             ]
           },
+		  {
+			"id": 6,
+			"name": "This is Happening",
+			"description": "Get a Great result on 2 skill checks using the Perk This Is Not Happening",
+			"type": "Survivor",
+			"tags": [
+				"Skill Checks",
+				"This is Not Happening"
+			]
+		  },
+		  {
+			"id": 7,
+			"name": "Claudette's Determination",
+			"description": "As Claudette Morel, escape a trial",
+			"type": "Survivor",
+			"tags": [
+				"Claudette Morel",
+				"Escape Trials"
+			]
+		},
+		{
+			"id": 8,
+			"name": "The Last Place you Look",
+			"description": "Search 5 Chests",
+			"type": "Survivor",
+			"tags": [
+				"Search Chests",
+				"Plunderer's Instinct"
+			]
+		},
+		{
+			"id": 9,
+			"name": "Plunder King",
+			"description": "Search 2 Chests using the perk Plunderer's Instinct",
+			"type": "Survivor",
+			"tags": [
+				"Search Chests",
+				"Plunderer's Instinct"
+			]
+		},
+		{
+			"id": 10,
+			"name": "Craft Time's Over",
+			"description": "Cleanse 8 Totems",
+			"type": "Survivor",
+			"tags": [
+				"Cleanse Totems"
+			]
+		},
+		{
+			"id": 11,
+			"name": "Empathic",
+			"description": "Completely heal 2 Health States using the Perk Empathy",
+			"type": "Survivor",
+			"tags": [
+				"Heal",
+				"Heal Others",
+				"Heal Self",
+				"Empathy"
+			]
+		},
 		  {
             "id": 21,
             "name": "Gruesome",
@@ -103,6 +164,34 @@
               "Trapper"
             ]
           },
+		  {
+			"id": 26,
+			"name": "Dark Triumph",
+			"description": "Sacrifice 1 Survivor to The Entity during the Endgame Collapse",
+			"type": "Killer",
+			"tags": [
+				"Endgame Collapse",
+				"Sacrifice"
+			]
+		},
+		{
+			"id": 27,
+			"name": "Reverent",
+			"description": "Sacrifice 5 Survivors to the Entity",
+			"type": "Killer",
+			"tags": [
+				"Sacrifice"
+			]
+		},
+		{
+			"id": 28,
+			"name": "None Shall Survive",
+			"description": "Kill all Survivors in a Trial 1 time",
+			"type": "Killer",
+			"tags": [
+				"Kill"
+			]
+		},
 		  {
             "id": 41,
             "name": "Bloody Rewards",
