@@ -4,7 +4,7 @@
     "chapter": [
       {
         "number": 1,
-        "challenge": [
+        "challenges": [
           {
             "id": 1,
             "name": "Bring the Light",
@@ -211,7 +211,24 @@
             ]
           }
         ]
-      }
+      },
+	  {
+		"number": 2
+		"challenges": [
+			{
+				"id": 1,
+				"name": "Self Care Service",
+				"description": "Heal yourself a total of 2 Health States while using Self-Care.",
+				"type": "Survivor",
+				"tags": [
+					"Claudette Morel",
+					"Heal",
+					"Heal Self",
+					"Self-Care"
+				]
+			}
+		]
+	  }
     ]
   }
 }
