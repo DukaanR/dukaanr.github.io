@@ -1,5 +1,5 @@
 {
-  "archive": {
+  "tome": {
     "number": 1,
     "chapter": [
       {
@@ -213,7 +213,7 @@
         ]
       },
 	  {
-		"number": 2
+		"number": 2,
 		"challenges": [
 			{
 				"id": 1,
